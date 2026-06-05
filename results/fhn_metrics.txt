@@ -1,0 +1,5 @@
+FITZHUGH–NAGUMO RESULTS
+----------------------
+Baseline PINN  : 92.13 %
+Fourier PINN   : 90.03 %
+MAPINN         :  0.78 %

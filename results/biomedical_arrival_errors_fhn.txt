@@ -1,0 +1,10 @@
+BIOMEDICAL USE CASE — FITZHUGH–NAGUMO
+Arrival Time Error Analysis (MAPINN)
+--------------------------------------------------
+x = -0.60 | No excitation detected
+x = -0.30 | GT = 0.4545, Pred = 0.5859, Error = 1.3131e-01
+x = +0.00 | GT = 1.0000, Pred = 1.0000, Error = 0.0000e+00
+x = +0.30 | GT = 0.4545, Pred = 0.6465, Error = 1.9192e-01
+x = +0.60 | No excitation detected
+--------------------------------------------------
+Mean Arrival Time Error: 1.0774e-01 seconds

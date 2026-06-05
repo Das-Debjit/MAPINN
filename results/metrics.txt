@@ -1,0 +1,5 @@
+FINAL ALLEN–CAHN RESULTS
+-------------------------
+Baseline PINN  : 13.47 %
+Fourier PINN   :  5.42 %
+MAPINN         :  2.96 %
