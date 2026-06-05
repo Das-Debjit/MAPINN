@@ -88,16 +88,23 @@ Models excitable wave propagation in biological and chemical systems.
 ```
 MAPINN/
 │
-├── MAPINN_COMPLETE_FINAL.ipynb   ← Full implementation notebook
+├── notebooks/
+│   └── MAPINN_COMPLETE_FINAL.ipynb   ← Full implementation
 │
-├── thesis/
-│   └── DEBJIT_THESIS.pdf         ← Complete M.Sc. dissertation
+├── data/
+│   ├── allen_cahn_ground_truth.npz
+│   └── fhn_ground_truth.npz
 │
-├── poster/
-│   └── poster_final_debjit.pptx  ← Research poster
+├── models/                            ← Pretrained checkpoints
+│   ├── mapinn_allen_cahn.pth
+│   ├── mapinn_fhn.pth
+│   └── (baseline & Fourier variants)
 │
-├── results/                       ← Output figures & comparisons
+├── results/                           ← Plots & metrics
 │
+├── DEBJIT_THESIS.pdf                  ← M.Sc. dissertation
+├── poster final debjit.pdf            ← Research poster
+├── README.md
 └── requirements.txt
 ```
 
